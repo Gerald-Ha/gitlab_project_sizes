@@ -75,7 +75,7 @@ Terminal example:
 
 ```
 📁 Top 20 Projects by Storage Usage:
-   1.5 GB  Gerald / AminStayZenSurf
+   1.5 GB  Gerald / Website
   38.3 MB  Gerald / cryptopricetracker
    ...
 ```
